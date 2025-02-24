@@ -62,4 +62,6 @@ The dataset is split into training and testing subsets, ensuring the model can g
 
 ## Developers
    * [Anushya Varshini K](https://github.com/anushya03)
+   * [Rithick M K](https://github.com/rithick-06)
+   * [Gokulnath G](https://github.com/GOKULNATH004)
 
